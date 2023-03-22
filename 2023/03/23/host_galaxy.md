@@ -27,7 +27,8 @@ $$
 
 Then $g(t)$ is a bolometric flux of the variable component. 
 
-In photometric campaign, we measure the flux in different bands. So, we introduce the transfer/transmission function. Finally, the variable flux can be written as $f_i(t) =\int_{\nu_1}^{\nu_2}n(\nu)S_i(\nu)g(t)d\nu=n_ig(t) $. Rewrite to a vector notation:
+In photometric campaign, we measure the flux in different bands. So, we introduce the transfer/transmission function. Finally, the variable flux can be written as $f_i(t) =\int_{\nu_1}^{\nu_2}n(\nu)S_i (\nu)g(t) d\nu=n_i g(t)$. Rewrite to a vector notation:
+
 $$
 {\bf \Phi(t)} ={\bf f(t)}+{\bf F}
 $$
