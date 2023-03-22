@@ -17,6 +17,7 @@ https://ui.adsabs.harvard.edu/abs/1981AcA....31..293C/abstract
 * $F(\nu)$, the constant component
 
 We assume a two component structure of a spectrum, then 
+
 $$
 \Phi(\nu,t) = f(\nu,t)+F(\nu)
 $$
@@ -56,7 +57,7 @@ $$
 
 **So, the intersection area(because of the error) of the AGN and host slopes gives a estimation of  the host contribution.**
 
-For example,
+For example,Haas, et al.., 2011A&A...535A..73H
 
 http://dx.doi.org/10.1051/0004-6361/201117325
 
