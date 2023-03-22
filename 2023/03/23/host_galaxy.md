@@ -42,10 +42,13 @@ $$
 $$
 
 Further, the relation between two different bands is
+
 $$
 \Phi_k (t) = \frac{n_k}{n_l} \Phi_l (t)+ (F_k -\frac{n_k}{n_l} F_l)
 $$
+
 or 
+
 $$
 \Phi_k (t)-\frac{n_k}{n_l} \Phi_l (t) =F_k-\frac{n_k}{n_l} F_l.
 $$
@@ -57,4 +60,4 @@ For example,
 
 http://dx.doi.org/10.1051/0004-6361/201117325
 
-![image-20230323020049690](C:\Users\17831\AppData\Roaming\Typora\typora-user-images\image-20230323020049690.png)
+![image-20230323020049690](https://www.aanda.org/articles/aa/full_html/2011/11/aa17325-11/aa17325-11-fig6.jpg)
