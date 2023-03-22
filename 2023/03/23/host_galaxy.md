@@ -43,11 +43,11 @@ $$
 
 Further, the relation between two different bands is
 $$
-\Phi_k(t) = \frac{n_k}{n_l}\Phi_l(t)+(F_k-\frac{n_k}{n_l}F_l)
+\Phi_k (t) = \frac{n_k}{n_l} \Phi_l (t)+ (F_k -\frac{n_k}{n_l} F_l)
 $$
 or 
 $$
-\Phi_k(t)-\frac{n_k}{n_l}\Phi_l(t) =F_k-\frac{n_k}{n_l}F_l.
+\Phi_k (t)-\frac{n_k}{n_l} \Phi_l (t) =F_k-\frac{n_k}{n_l} F_l.
 $$
 
 
