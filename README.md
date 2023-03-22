@@ -3,4 +3,4 @@ These are regular notes for paper I have read. In this repository, I will write 
 
 # Content
 
-2023/03/23 Host Galaxy(to estimate contributions of the host galaxy)
+2023/03/23 [Host Galaxy](https://github.com/YuanzheJiang/Paper_Notes/blob/main/2023/03/23/host_galaxy.md)(to estimate contributions of the host galaxy)
