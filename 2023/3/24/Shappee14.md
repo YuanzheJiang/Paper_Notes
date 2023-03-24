@@ -21,7 +21,7 @@ Nucleus outburst $\rightarrow$ changing - look
 
 
 
-3.2 Wavelength-dependent Variability Lags and Temporal Smoothing
+**3.2 Wavelength-dependent Variability Lags and Temporal Smoothing**
 
 * Combine different bands (less data point)
 
@@ -30,7 +30,7 @@ Nucleus outburst $\rightarrow$ changing - look
 
 
 
-3.3 SED
+**3.3 SED**
 
 * **Composite SED**
 
@@ -42,7 +42,7 @@ Nucleus outburst $\rightarrow$ changing - look
 
 
 
-4 A Simple Quantitative Model
+**4 A Simple Quantitative Model**
 
 * Thin disk prediction
 * Host
