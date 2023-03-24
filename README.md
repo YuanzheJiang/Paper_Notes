@@ -3,6 +3,6 @@ These are regular notes for paper I have read. In this repository, I will write 
 
 # Content
 
-2023/03/23 [Host Galaxy](https://github.com/YuanzheJiang/Paper_Notes/blob/main/2023/03/23/host_galaxy.md)(to estimate contributions of the host galaxy)
+2023/03/23 [Host Galaxy](https://github.com/YuanzheJiang/Paper_Notes/blob/main/2023/03/23/host_galaxy.md) To estimate contributions of the host galaxy.
 
-2023/03/24 [SED Compose](https://github.com/YuanzheJiang/Paper_Notes/blob/main/2023/03/24/Shappee14.md)(theraml thin disk+dc+constant?)
+2023/03/24 [SED Compose](https://github.com/YuanzheJiang/Paper_Notes/blob/main/2023/03/24/Shappee14.md) Theraml thin disk+dc+constant?
